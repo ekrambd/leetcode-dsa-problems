@@ -3,14 +3,14 @@ LeetCode 60 DSA Problem List (Easy → Medium)
 
 🟩 1️⃣ Arrays (10 problems)
 ----------------------------
-1.  Two Sum (#1) - Easy
+1.  Two Sum (#1) - Easy - Done
 2.  Maximum Subarray (#53) - Medium
-3.  Best Time to Buy and Sell Stock (#121) - Easy
-4.  Contains Duplicate (#217) - Easy
+3.  Best Time to Buy and Sell Stock (#121) - Easy - Done
+4.  Contains Duplicate (#217) - Easy - Done
 5.  Product of Array Except Self (#238) - Medium
 6.  3Sum (#15) - Medium
-7.  Merge Sorted Array (#88) - Easy
-8.  Merge Intervals (#56) - Medium
+7.  Merge Sorted Array (#88) - Easy - Done
+8.  Merge Intervals (#56) - Medium - Done
 9.  Set Matrix Zeroes (#73) - Medium
 10. Trapping Rain Water (#42) - Hard (Optional)
 
