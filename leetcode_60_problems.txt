@@ -1,0 +1,83 @@
+LeetCode 60 DSA Problem List (Easy → Medium)
+============================================
+
+🟩 1️⃣ Arrays (10 problems)
+----------------------------
+1.  Two Sum (#1) - Easy
+2.  Maximum Subarray (#53) - Medium
+3.  Best Time to Buy and Sell Stock (#121) - Easy
+4.  Contains Duplicate (#217) - Easy
+5.  Product of Array Except Self (#238) - Medium
+6.  3Sum (#15) - Medium
+7.  Merge Sorted Array (#88) - Easy
+8.  Merge Intervals (#56) - Medium
+9.  Set Matrix Zeroes (#73) - Medium
+10. Trapping Rain Water (#42) - Hard (Optional)
+
+🟦 2️⃣ Strings (10 problems)
+----------------------------
+11. Valid Parentheses (#20) - Easy
+12. Valid Palindrome (#125) - Easy
+13. Longest Substring Without Repeating Characters (#3) - Medium
+14. Valid Anagram (#242) - Easy
+15. Group Anagrams (#49) - Medium
+16. Longest Palindromic Substring (#5) - Medium
+17. Add Binary (#67) - Easy
+18. String to Integer (atoi) (#8) - Medium
+19. Longest Common Prefix (#14) - Easy
+20. Reverse Words in a String (#151) - Medium
+
+🟨 3️⃣ HashMap / Set (8 problems)
+--------------------------------
+21. Two Sum (#1) - Easy
+22. Intersection of Two Arrays (#349) - Easy
+23. Contains Duplicate II (#219) - Easy
+24. Longest Consecutive Sequence (#128) - Medium
+25. First Unique Character in a String (#387) - Easy
+26. Ransom Note (#383) - Easy
+27. Subarray Sum Equals K (#560) - Medium
+28. Group Anagrams (#49) - Medium
+
+🟧 4️⃣ Linked List (6 problems)
+------------------------------
+29. Reverse Linked List (#206) - Easy
+30. Merge Two Sorted Lists (#21) - Easy
+31. Linked List Cycle (#141) - Easy
+32. Remove Nth Node From End of List (#19) - Medium
+33. Add Two Numbers (#2) - Medium
+34. Intersection of Two Linked Lists (#160) - Easy
+
+🟪 5️⃣ Stack / Queue (6 problems)
+--------------------------------
+35. Valid Parentheses (#20) - Easy
+36. Min Stack (#155) - Medium
+37. Implement Queue using Stacks (#232) - Easy
+38. Daily Temperatures (#739) - Medium
+39. Evaluate Reverse Polish Notation (#150) - Medium
+40. Largest Rectangle in Histogram (#84) - Hard (Optional)
+
+🟫 6️⃣ Binary Search / Recursion (10 problems)
+---------------------------------------------
+41. Binary Search (#704) - Easy
+42. Search Insert Position (#35) - Easy
+43. First Bad Version (#278) - Easy
+44. Search in Rotated Sorted Array (#33) - Medium
+45. Find Minimum in Rotated Sorted Array (#153) - Medium
+46. Pow(x, n) (#50) - Medium
+47. Majority Element (#169) - Easy
+48. Number of 1 Bits (#191) - Easy
+49. Reverse Bits (#190) - Easy
+50. Power of Three (#326) - Easy
+
+⬛ 7️⃣ Miscellaneous (10 problems)
+---------------------------------
+51. Climbing Stairs (#70) - Easy
+52. House Robber (#198) - Medium
+53. Unique Paths (#62) - Medium
+54. Container With Most Water (#11) - Medium
+55. Rotate Image (#48) - Medium
+56. Next Permutation (#31) - Medium
+57. Permutations (#46) - Medium
+58. Subsets (#78) - Medium
+59. Number of Islands (#200) - Medium
+60. Rotting Oranges (#994) - Medium
