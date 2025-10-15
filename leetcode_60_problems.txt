@@ -8,7 +8,7 @@ LeetCode 60 DSA Problem List (Easy → Medium)
 3.  Best Time to Buy and Sell Stock (#121) - Easy - Done
 4.  Contains Duplicate (#217) - Easy - Done
 5.  Product of Array Except Self (#238) - Medium
-6.  3Sum (#15) - Medium
+6.  3Sum (#15) - Medium - Done
 7.  Merge Sorted Array (#88) - Easy - Done
 8.  Merge Intervals (#56) - Medium - Done
 9.  Set Matrix Zeroes (#73) - Medium
