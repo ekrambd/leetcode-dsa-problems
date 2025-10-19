@@ -1,0 +1,81 @@
+==============================
+FULL STACK DEV INTERVIEW DSA LIST (STARTUP / MID LEVEL)
+==============================
+
+1️⃣ Array & String (16)
+------------------------------
+1. (1) Two Sum – Easy
+2. (121) Best Time to Buy and Sell Stock – Easy
+3. (217) Contains Duplicate – Easy
+4. (238) Product of Array Except Self – Medium
+5. (53) Maximum Subarray – Easy
+6. (56) Merge Intervals – Medium
+7. (283) Move Zeroes – Easy
+8. (169) Majority Element – Easy
+9. (189) Rotate Array – Medium
+10. (14) Longest Common Prefix – Easy
+11. (242) Valid Anagram – Easy
+12. (3) Longest Substring Without Repeating Characters – Medium
+13. (15) 3Sum – Medium
+14. (49) Group Anagrams – Medium
+15. (350) Intersection of Two Arrays II – Easy
+16. (560) Subarray Sum Equals K – Medium
+
+2️⃣ HashMap / Set / Dictionary (7)
+------------------------------
+17. (219) Contains Duplicate II – Easy
+18. (347) Top K Frequent Elements – Medium
+19. (167) Two Sum II – Input Array Is Sorted – Easy
+20. (653) Two Sum IV – Input is a BST – Easy
+21. (128) Longest Consecutive Sequence – Medium
+22. (202) Happy Number – Easy
+23. (442) Find All Duplicates in an Array – Medium
+
+3️⃣ Stack & Queue (6)
+------------------------------
+24. (20) Valid Parentheses – Easy
+25. (155) Min Stack – Medium
+26. (232) Implement Queue using Stacks – Easy
+27. (739) Daily Temperatures – Medium
+28. (496) Next Greater Element I – Easy
+29. (150) Evaluate Reverse Polish Notation – Medium
+
+4️⃣ Linked List (5)
+------------------------------
+30. (206) Reverse Linked List – Easy
+31. (21) Merge Two Sorted Lists – Easy
+32. (141) Linked List Cycle – Easy
+33. (19) Remove Nth Node From End of List – Medium
+34. (234) Palindrome Linked List – Medium
+
+5️⃣ Tree (7)
+------------------------------
+35. (104) Maximum Depth of Binary Tree – Easy
+36. (226) Invert Binary Tree – Easy
+37. (101) Symmetric Tree – Easy
+38. (102) Binary Tree Level Order Traversal – Medium
+39. (100) Same Tree – Easy
+40. (572) Subtree of Another Tree – Medium
+41. (543) Diameter of Binary Tree – Easy
+
+6️⃣ Graph / BFS / DFS (4)
+------------------------------
+42. (200) Number of Islands – Medium
+43. (133) Clone Graph – Medium
+44. (207) Course Schedule – Medium
+45. (733) Flood Fill – Easy
+
+7️⃣ Dynamic Programming (5)
+------------------------------
+46. (70) Climbing Stairs – Easy
+47. (198) House Robber – Medium
+48. (152) Maximum Product Subarray – Medium
+49. (322) Coin Change – Medium
+50. (62) Unique Paths – Medium
+
+8️⃣ Misc / Math / Bit Manipulation (4)
+------------------------------
+51. (268) Missing Number – Easy
+52. (7) Reverse Integer – Easy
+53. (231) Power of Two – Easy
+54. (191) Number of 1 Bits – Easy
