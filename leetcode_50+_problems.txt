@@ -4,14 +4,14 @@ FULL STACK DEV INTERVIEW DSA LIST (STARTUP / MID LEVEL)
 
 1️⃣ Array & String (16)
 ------------------------------
-1. (1) Two Sum – Easy
-2. (121) Best Time to Buy and Sell Stock – Easy
-3. (217) Contains Duplicate – Easy
+1. (1) Two Sum – Easy - Done
+2. (121) Best Time to Buy and Sell Stock – Easy - Done
+3. (217) Contains Duplicate – Easy - Done
 4. (238) Product of Array Except Self – Medium
 5. (53) Maximum Subarray – Easy
-6. (56) Merge Intervals – Medium
-7. (283) Move Zeroes – Easy
-8. (169) Majority Element – Easy
+6. (56) Merge Intervals – Medium - Done
+7. (283) Move Zeroes – Easy - Done
+8. (169) Majority Element – Easy - Done
 9. (189) Rotate Array – Medium
 10. (14) Longest Common Prefix – Easy
 11. (242) Valid Anagram – Easy
