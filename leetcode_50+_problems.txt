@@ -12,7 +12,7 @@ FULL STACK DEV INTERVIEW DSA LIST (STARTUP / MID LEVEL)
 6. (56) Merge Intervals – Medium - Done
 7. (283) Move Zeroes – Easy - Done
 8. (169) Majority Element – Easy - Done
-9. (189) Rotate Array – Medium
+9. (189) Rotate Array – Medium - Done
 10. (14) Longest Common Prefix – Easy
 11. (242) Valid Anagram – Easy
 12. (3) Longest Substring Without Repeating Characters – Medium
@@ -29,7 +29,7 @@ FULL STACK DEV INTERVIEW DSA LIST (STARTUP / MID LEVEL)
 20. (653) Two Sum IV – Input is a BST – Easy
 21. (128) Longest Consecutive Sequence – Medium
 22. (202) Happy Number – Easy
-23. (442) Find All Duplicates in an Array – Medium
+23. (442) Find All Duplicates in an Array – Medium - Done
 
 3️⃣ Stack & Queue (6)
 ------------------------------
