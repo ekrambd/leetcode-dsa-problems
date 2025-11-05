@@ -28,7 +28,7 @@ FULL STACK DEV INTERVIEW DSA LIST (STARTUP / MID LEVEL)
 19. (167) Two Sum II – Input Array Is Sorted – Easy - Done
 20. (653) Two Sum IV – Input is a BST – Easy
 21. (128) Longest Consecutive Sequence – Medium
-22. (202) Happy Number – Easy
+22. (202) Happy Number – Easy - Done
 23. (442) Find All Duplicates in an Array – Medium - Done
 
 3️⃣ Stack & Queue (6)
