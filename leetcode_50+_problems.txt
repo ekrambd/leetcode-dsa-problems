@@ -8,7 +8,7 @@ FULL STACK DEV INTERVIEW DSA LIST (STARTUP / MID LEVEL)
 2. (121) Best Time to Buy and Sell Stock – Easy - Done
 3. (217) Contains Duplicate – Easy - Done
 4. (238) Product of Array Except Self – Medium
-5. (53) Maximum Subarray – Easy
+5. (53) Maximum Subarray – Easy - Done
 6. (56) Merge Intervals – Medium - Done
 7. (283) Move Zeroes – Easy - Done
 8. (169) Majority Element – Easy - Done
