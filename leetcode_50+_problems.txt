@@ -23,9 +23,9 @@ FULL STACK DEV INTERVIEW DSA LIST (STARTUP / MID LEVEL)
 
 2️⃣ HashMap / Set / Dictionary (7)
 ------------------------------
-17. (219) Contains Duplicate II – Easy
-18. (347) Top K Frequent Elements – Medium
-19. (167) Two Sum II – Input Array Is Sorted – Easy
+17. (219) Contains Duplicate II – Easy - Done
+18. (347) Top K Frequent Elements – Medium - Partially Done
+19. (167) Two Sum II – Input Array Is Sorted – Easy - Done
 20. (653) Two Sum IV – Input is a BST – Easy
 21. (128) Longest Consecutive Sequence – Medium
 22. (202) Happy Number – Easy
