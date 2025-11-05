@@ -75,7 +75,7 @@ FULL STACK DEV INTERVIEW DSA LIST (STARTUP / MID LEVEL)
 
 8️⃣ Misc / Math / Bit Manipulation (4)
 ------------------------------
-51. (268) Missing Number – Easy
+51. (268) Missing Number – Easy - Done
 52. (7) Reverse Integer – Easy
 53. (231) Power of Two – Easy
 54. (191) Number of 1 Bits – Easy
