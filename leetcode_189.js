@@ -3,16 +3,14 @@
 var rotate = function(nums, k) {
     k = k % nums.length;
     let diff = nums.length - k;
-
     let arr1 = nums.slice(diff);
-    let arr2 = nums.slice(0, diff);
+    let arr2 = nums.slice(0,diff);
     let arr = arr1.concat(arr2);
-
-    for (let i = 0; i < nums.length; i++) {
+    for(let i = 0; i < nums.length; i++)
+    {
         nums[i] = arr[i];
     }
-
-    return nums;
+    return arr;
 };
 
 
